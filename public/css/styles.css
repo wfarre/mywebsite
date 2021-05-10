@@ -120,6 +120,11 @@
   text-align: center;
 }
 
+em {
+  color: #fff;
+  font-style: normal;
+}
+
 body {
   margin: 0;
   color: #E97878;
