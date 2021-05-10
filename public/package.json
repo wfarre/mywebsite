@@ -1,0 +1,16 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss ./public/css/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.1",
+    "emailjs-com": "^2.6.4",
+    "express": "^4.17.1"
+  }
+}
